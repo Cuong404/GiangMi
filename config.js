@@ -6,11 +6,11 @@ const CONFIG = {
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Anh Chỉ Muốn Gửi Đến Em Rằng: Nếu như em cho phép thì có thể cho phép anh đồng hành cùng em trong đoạn đường sắp tới nhá...3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Em Đồng Ý !',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    messDesc: 'Đọc xong rồi thì hồi âm lại cho anh nhé!.',
     btnAccept: 'Dạ ! Dạ ! <3',
     messLink: 'https://m.me/cuong404.vn' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
